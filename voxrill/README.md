@@ -1,0 +1,27 @@
+# Voxrill
+
+Live transcription and translation for Apple Silicon Macs running macOS 15 or later.
+Website: [voxrill.com](https://voxrill.com)
+
+## Download
+
+| Version | File | Size | SHA-256 |
+| --- | --- | --- | --- |
+| 1.0.0 (5) | [Voxrill-1.0.0.dmg](https://raw.githubusercontent.com/ethanzhrepo/public/main/voxrill/Voxrill-1.0.0.dmg) | 19 MB | `9ac8a1b8dce2c99fb4062a2340f2f8b9d7c947d700881fbb2aa287ad7720b8ba` |
+
+The app is signed with a Developer ID certificate and notarized by Apple. Open the DMG and drag Voxrill to Applications. To check the download:
+
+```sh
+shasum -a 256 -c Voxrill-1.0.0.dmg.sha256
+```
+
+The downloaded version does not update itself yet. New versions are posted here and on voxrill.com.
+
+## 下载
+
+适用于搭载 Apple Silicon、运行 macOS 15 或更新版本的 Mac。应用已使用 Developer ID 签名并通过 Apple 公证。打开 DMG，把 Voxrill 拖到“应用程序”文件夹即可。下载版暂不支持自动更新，新版本会发布在这里和 voxrill.com。
+
+## Support
+
+- Email: support@voxrill.com
+- [Support](https://voxrill.com/support/) · [Privacy Policy](https://voxrill.com/privacy/) · [Terms of Use](https://voxrill.com/terms/)
